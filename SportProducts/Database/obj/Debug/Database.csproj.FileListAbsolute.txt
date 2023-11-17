@@ -1,0 +1,14 @@
+C:\Users\429194-11\Desktop\from git\session1\SportProducts\Database\bin\Debug\Database.dll.config
+C:\Users\429194-11\Desktop\from git\session1\SportProducts\Database\bin\Debug\Database.dll
+C:\Users\429194-11\Desktop\from git\session1\SportProducts\Database\bin\Debug\Database.pdb
+C:\Users\429194-11\Desktop\from git\session1\SportProducts\Database\bin\Debug\EntityFramework.dll
+C:\Users\429194-11\Desktop\from git\session1\SportProducts\Database\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\429194-11\Desktop\from git\session1\SportProducts\Database\bin\Debug\EntityFramework.xml
+C:\Users\429194-11\Desktop\from git\session1\SportProducts\Database\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\429194-11\Desktop\from git\session1\SportProducts\Database\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\429194-11\Desktop\from git\session1\SportProducts\Database\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\429194-11\Desktop\from git\session1\SportProducts\Database\obj\Debug\Database.csprojAssemblyReference.cache
+C:\Users\429194-11\Desktop\from git\session1\SportProducts\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\429194-11\Desktop\from git\session1\SportProducts\Database\obj\Debug\Database.csproj.CopyComplete
+C:\Users\429194-11\Desktop\from git\session1\SportProducts\Database\obj\Debug\Database.dll
+C:\Users\429194-11\Desktop\from git\session1\SportProducts\Database\obj\Debug\Database.pdb

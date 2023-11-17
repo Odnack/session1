@@ -1,0 +1,12 @@
+E:\4\Sport_tovars\Sport_tovars\bin\Debug\Sport_tovars.exe.config
+E:\4\Sport_tovars\Sport_tovars\bin\Debug\Sport_tovars.exe
+E:\4\Sport_tovars\Sport_tovars\bin\Debug\Sport_tovars.pdb
+E:\4\Sport_tovars\Sport_tovars\obj\Debug\Sport_tovars.csprojAssemblyReference.cache
+E:\4\Sport_tovars\Sport_tovars\obj\Debug\Sport_tovars.auntification.resources
+E:\4\Sport_tovars\Sport_tovars\obj\Debug\Sport_tovars.Properties.Resources.resources
+E:\4\Sport_tovars\Sport_tovars\obj\Debug\Sport_tovars.csproj.GenerateResource.cache
+E:\4\Sport_tovars\Sport_tovars\obj\Debug\Sport_tovars.csproj.CoreCompileInputs.cache
+E:\4\Sport_tovars\Sport_tovars\obj\Debug\Sport_tovars.exe
+E:\4\Sport_tovars\Sport_tovars\obj\Debug\Sport_tovars.pdb
+E:\4\Sport_tovars\Sport_tovars\obj\Debug\Sport_tovars.NewTovar.resources
+E:\4\Sport_tovars\Sport_tovars\obj\Debug\Sport_tovars.Tovars.resources
